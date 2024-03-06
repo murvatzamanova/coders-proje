@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap');
+* {
+  margin:0;
+  padding: 40;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  text-align: center;
+}
+.background {
+  background-image: url("ilanlar.jpg");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  .basliq{
+    margin-bottom: 40px;
+    text-align: center;
+    font-size: 80px;
+    color: rgb(220, 176, 176);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .yarimbasliq{
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 30px;
+    text-decoration-line: inherit;
+    color: rgb(196, 160, 116);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  }
+.metn{
+    text-align: center;
+    font-size: 22px;
+    text-decoration-line: center;
+    color: rgb(232, 209, 181);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.serpantropiya{
+  text-align: center;
+    font-size: 22px;
+    text-decoration-line: center;
+    color: rgb(96, 66, 29);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.daxilol{
+  margin: 30px;
+  background-color: rgb(245, 192, 192);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  font-size: 16px;
+  border-radius: 20px;
+  box-shadow:200px yellow;
+}
+}
+.background2{
+  background-color: bisque;
+  height: 450vh;
+
+  background-repeat: no-repeat;
+  background-size: 100%;
+  .deri{
+    margin-bottom: 30px;
+      text-align: center;
+      font-size: 80px;
+      color: rgb(0, 0, 0);
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+  }
+.metn2{
+  text-align: center;
+  font-size: 22px;
+  text-decoration-line: center;
+  color: rgb(22, 19, 15);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.derideyisimi{
+  margin-top: 30px;
+  -webkit-box-shadow: 2px 2px 17px 1px rgba(186, 31, 17, 0.73);
+  box-shadow: 4px 4px 17px 1px rgba(161, 52, 86, 0.73);
+  margin:90px;
+  border: 3px solid green;
+  
+}
+.zeher{
+  margin-top: 50px;
+  -webkit-box-shadow: 2px 2px 17px 1px rgba(186, 31, 17, 0.73);
+  box-shadow: 4px 4px 17px 1px rgba(161, 52, 86, 0.73);
+  margin:300px;
+  border: 3px solid green;
+ 
+}
+}
